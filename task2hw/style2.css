@@ -1,0 +1,25 @@
+header{
+    background-color: rgb(34,123,253);
+    padding-top: 100px;
+    padding-bottom: 90px;
+    color: white;
+}
+#section1{
+    padding:130px 330px;
+}
+p{
+    font-size: 20px;
+}
+#section2{
+    background-color: rgb(248,249,250);
+    padding:130px 330px;
+}
+#section3{
+    padding:130px 330px;
+
+}
+footer{
+    background-color: rgb(33,37,41);
+    color: white;
+    padding:30px 330px ;
+}
